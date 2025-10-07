@@ -7,6 +7,7 @@ HH-Microfinance est une solution logicielle légère et performante destinée au
 HH-Microfinance a été développé par Franckor Services (Côte d'ivoire) .
 
 Caractéristiques
+
 Gestion de la clientèle
 Gestion des comptes d'actions
 Gestion de compte d'épargne
@@ -14,7 +15,9 @@ Gestion des prêts
 Gestion des employés
 Rapports
 Comptabilité
+
 Installation
+
 HH-Microfinance étant entièrement basé sur la technologie web, il nécessite un serveur web compatible PHP et une base de données MySQL. Pour les tests, l'utilisation de XAMPP est recommandée.
 
 Pour se connecter à la base de données de test incluse dans ce dépôt (hhmicrofinance.sql), la configuration requise est la suivante : Serveur : 127.0.0.1 / Utilisateur de la base de données : root / Mot de passe de la base de données : '' (mot de passe vide). Il s'agit des paramètres par défaut actuels inclus dans ./config/config.php. Ils ne doivent être utilisés que pour les installations de test. Veillez à modifier l'utilisateur et le mot de passe de la base de données pour tout environnement de production ! Il est également fortement recommandé de modifier le mot de passe zephleroy à chaque nouvelle installation en modifiant ./config/zephleroy.php.
