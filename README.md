@@ -8,13 +8,19 @@ HH-Microfinance a été développé par Franckor Services (Côte d'ivoire) .
 
 Caractéristiques
 
-Gestion de la clientèle
-Gestion des comptes d'actions
-Gestion de compte d'épargne
-Gestion des prêts
-Gestion des employés
-Rapports
-Comptabilité
+* Gestion de la clientèle
+
+* Gestion des comptes d'actions
+
+* Gestion de compte d'épargne
+
+* Gestion des prêts
+
+* Gestion des employés
+
+* Rapports
+
+* Comptabilité
 
 Installation
 
