@@ -1,2 +1,2 @@
 # HH-Microbanque
-La banque du planteur
+La Microfinance multifonctionnelle des coopératives des planteurs
