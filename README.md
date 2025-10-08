@@ -1,8 +1,8 @@
 # HH-Microbanque
-La Microfinance multifonctionnelle des coopératives des planteurs.
-HH-Microfinance est une solution logicielle légère et performante destinée aux petites institutions de microfinance. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
+La Microfinance multifonctionnelle de coopératives de planteurs.
+HH-Microfinance est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
 
- En règle générale, les clients de ces HH-Microfinance doivent acheter des parts pour devenir membres. Ils détiennent alors un compte d'épargne et un compte de crédit auprès de l'institution financière.
+ En règle générale, les clients de la HH-Microfinance doivent acheter des parts pour devenir membres. Ils détiennent alors un compte d'épargne et un compte de crédit auprès de l'institution financière.
 
 HH-Microfinance a été développé par Franckor Services (Côte d'ivoire) .
 
