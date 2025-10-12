@@ -17,6 +17,6 @@ $mngzephleroy = "
 	\$zephleroy = '".$newZephleroy."';
 ?>";
 
-// Create new pepper file
+// Create new zephleroy file
 file_put_contents("config/zephleroy.php", $mngzephleroy);
 ?>
