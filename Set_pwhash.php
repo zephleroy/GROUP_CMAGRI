@@ -6,13 +6,13 @@
 	if(isset($_POST['adminSetup'])){
 
 		// Make new passwort pepper
-		require 'setup_makepepper.php';
+		require 'setup_makezephleroy.php';
 
 		// Include passwort pepper
-		require 'config/pepper.php';
+		require 'config/zephleroy.php';
 
 		// Sanitize user input
-		$admin_pass = password_hash ($_POST['admin_pass'].$pepper, PASSWORD_DEFAULT);
+		$admin_pass = password_hash (zephleroy, PASSWORD_DEFAULT);
 		$timestamp = time();
 	}
 ?>
