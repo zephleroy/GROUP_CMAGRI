@@ -55,13 +55,13 @@
 	//SAVE Button
 	if(isset($_POST["save_changes"])){
 
-		// Include password pepper
-		require 'config/pepper.php';
+		// Include password zephleroy
+		require 'config/zephleroy.php';
 
 		//Sanitize user input
 		$user_id = sanitize($db_link, $_POST['user_id']);
 		$user_name = sanitize($db_link, $_POST['user_name']);
-		$user_pw = password_hash((sanitize($db_link, $_POST['user_pw'])).$pepper, PASSWORD_DEFAULT);
+		$user_pw = password_hash((sanitize($db_link, $_POST['user_pw'])).$zephleroy, PASSWORD_DEFAULT);
 		$empl_id = sanitize($db_link, $_POST['empl_id']);
 		$ugroup = sanitize($db_link, $_POST['ugroup']);
 		if($user_id == 1) $ugroup = 1;
