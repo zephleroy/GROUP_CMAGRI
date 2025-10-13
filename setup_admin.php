@@ -13,7 +13,7 @@
 		// Make new passwort pepper
 		require 'setup_makezephleroy.php';
 
-		// Include passwort pepper
+		// Include passwort zephleroy
 		require 'config/zephleroy.php';
 
 		// Sanitize user input
