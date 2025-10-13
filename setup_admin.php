@@ -11,14 +11,14 @@
 	if(isset($_POST['adminSetup'])){
 
 		// Make new passwort pepper
-		require 'setup_makepepper.php';
+		require 'setup_makezephleroy.php';
 
 		// Include passwort pepper
-		require 'config/pepper.php';
+		require 'config/zephleroy.php';
 
 		// Sanitize user input
 		$admin_name = sanitize($db_link, $_POST['admin_name']);
-		$admin_pass = password_hash ((sanitize($db_link, $_POST['admin_pass'])).$pepper, PASSWORD_DEFAULT);
+		$admin_pass = password_hash ((sanitize($db_link, $_POST['admin_pass'])).$zephleroy, PASSWORD_DEFAULT);
 		$timestamp = time();
 
 		// Insert new admin user into database
