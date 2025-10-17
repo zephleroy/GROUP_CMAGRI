@@ -12,7 +12,7 @@ $mngconfig = "
 	define ('DB_NAME', '$_SESSION[db_name]');
 ?>";
 
-// Create new mangoO config file
+// Create new HH-Microbanque config file
 file_put_contents("config/config.php", $mngconfig);
 
 // Forward to login page
