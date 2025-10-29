@@ -1,6 +1,6 @@
-# HH-Microbanque
+# GROUP_CMAGRI
 La Microfinance multifonctionnelle de coopératives de planteurs.
-HH-Microfinance est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
+GROUP_CMAGRI est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
 
  En règle générale, les clients de la HH-Microfinance doivent acheter des parts pour devenir membres. Ils détiennent alors un compte d'épargne et un compte de crédit auprès de l'institution financière.
 
