@@ -1,4 +1,4 @@
-# Hirondelle
+# Hirondelle SFD
 La Microfinance multifonctionnelle de coopératives de planteurs.
 Hirondelle est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
 
