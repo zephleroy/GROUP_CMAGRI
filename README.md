@@ -1,10 +1,10 @@
-# GROUP_CMAGRI
+# Hirondelle
 La Microfinance multifonctionnelle de coopératives de planteurs.
-GROUP_CMAGRI est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
+Hirondelle est une solution logicielle performante destinée aux petites institutions de microfinance rurale. Elle utilise des technologies web comme PHP, MySQL, JavaScript (avec jQuery) et CSS.
 
  En règle générale, les clients de la Group_cmagri doivent acheter des parts pour devenir membres. Ils détiennent alors un compte d'épargne et un compte de crédit auprès de l'institution financière.
 
-Group_cmagri a été développé par Franckor Services (Côte d'ivoire) .
+Hirondelle a été développé par Franckor Services (Côte d'ivoire) .
 
 Caractéristiques
 
@@ -24,7 +24,7 @@ Caractéristiques
 
 Installation
 
-Group_cmagri étant entièrement basé sur la technologie web, il nécessite un serveur web compatible PHP et une base de données MySQL. Pour les tests, l'utilisation de XAMPP est recommandée.
+Hirondelle étant entièrement basé sur la technologie web, il nécessite un serveur web compatible PHP et une base de données MySQL. Pour les tests, l'utilisation de XAMPP est recommandée.
 
 Pour se connecter à la base de données de test incluse dans ce dépôt (hhmicrofinance.sql), la configuration requise est la suivante : 
 Serveur : 127.0.0.1 / 
